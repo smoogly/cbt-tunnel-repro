@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "test": "npm i && node repro.js"
+  },
+  "dependencies": {
+    "lazy-universal-dotenv": "^3.0.1",
+    "selenium-webdriver": "^4.1.1",
+    "serve": "^13.0.2",
+    "tasklauncher": "^0.0.7"
+  }
+}
